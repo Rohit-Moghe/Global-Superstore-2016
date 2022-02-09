@@ -18,17 +18,17 @@ To unlock sales insights that are not visible before the sales team for decision
 ![Top 5 Products](https://user-images.githubusercontent.com/96460908/153129077-66659c52-3a30-492f-b022-846f63184142.jpg)
 
 ## Database and Technology Used:
-• BigQuery Database
-• SQL - BigQuery
-• Power BI with DAX Editor
+1. BigQuery Database
+2. SQL - BigQuery
+3. Power BI with DAX Editor
 
 ## Steps Taken:
-• Accessing the database of BigQuery.
-• Perform Data-Analysis using SQL Queries.
-• Load the Data in Power BI.
-• Transform the data.
-• Create some new Measures in Power BI.
-• Create visuals and Dashboards.
+1. Accessing the database of BigQuery.
+2. Perform Data-Analysis using SQL Queries.
+3. Load the Data in Power BI.
+4. Transform the data.
+5. Create some new Measures in Power BI.
+6. Create visuals and Dashboards.
 
 ## End Result:
 An automated dashboard providing quick and latest sales insights in order to support data driven decision making.
